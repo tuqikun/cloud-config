@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/cloud_demo.iml" filepath="$PROJECT_DIR$/cloud_demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/config-service/config-service.iml" filepath="$PROJECT_DIR$/config-service/config-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka-client/eureka-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/eureka/eureka-server.iml" filepath="$PROJECT_DIR$/eureka/eureka-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/feign/feign.iml" filepath="$PROJECT_DIR$/feign/feign.iml" />
-      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-service/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/config-service/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-service/demo (1).iml" filepath="$PROJECT_DIR$/config-service/demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client/demo (2).iml" filepath="$PROJECT_DIR$/eureka-client/demo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/demo (3).iml" filepath="$PROJECT_DIR$/eureka/demo (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/demo (4).iml" filepath="$PROJECT_DIR$/feign/demo (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/demo (5).iml" filepath="$PROJECT_DIR$/zuul/demo (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo (5) (spring.could).iml" filepath="$PROJECT_DIR$/demo (5) (spring.could).iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/demo (6).iml" filepath="$PROJECT_DIR$/zuul/demo (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-service/src/main/main.iml" filepath="$PROJECT_DIR$/config-service/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-service/src/test/test.iml" filepath="$PROJECT_DIR$/config-service/src/test/test.iml" />
     </modules>
   </component>
 </project>
